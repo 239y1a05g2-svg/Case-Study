@@ -1,0 +1,40 @@
+body{
+font-family: Arial;
+background:#f4f4f4;
+text-align:center;
+margin:0;
+}
+
+header{
+background:#333;
+color:white;
+padding:15px;
+display:flex;
+justify-content:space-between;
+align-items:center;
+}
+
+nav a{
+color:white;
+margin:10px;
+text-decoration:none;
+}
+
+nav a:hover{
+color:yellow;
+}
+
+.about-box{
+background:white;
+padding:20px;
+margin:20px auto;
+width:60%;
+border:1px solid #ccc;
+}
+
+footer{
+background:#333;
+color:white;
+padding:15px;
+margin-top:30px;
+}

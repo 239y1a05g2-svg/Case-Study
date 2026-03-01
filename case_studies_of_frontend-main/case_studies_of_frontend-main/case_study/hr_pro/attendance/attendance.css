@@ -1,0 +1,50 @@
+body{
+font-family: Arial;
+background:#f4f4f4;
+text-align:center;
+margin:0;
+}
+
+header{
+background:#333;
+color:white;
+padding:15px;
+display:flex;
+justify-content:space-between;
+align-items:center;
+}
+
+nav a{
+color:white;
+margin:10px;
+text-decoration:none;
+}
+
+nav a:hover{
+color:yellow;
+}
+
+table{
+margin:auto;
+margin-top:20px;
+border-collapse:collapse;
+width:60%;
+background:white;
+}
+
+th, td{
+border:1px solid #ccc;
+padding:10px;
+}
+
+th{
+background:#333;
+color:white;
+}
+
+footer{
+background:#333;
+color:white;
+padding:15px;
+margin-top:30px;
+}

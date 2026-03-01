@@ -1,0 +1,14 @@
+body {
+    font-family: Arial;
+    background: #fff0e6;
+}
+
+.contact {
+    width: 400px;
+    margin: auto;
+    margin-top: 150px;
+    text-align: center;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+}

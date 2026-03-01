@@ -1,0 +1,21 @@
+body{
+font-family: Arial;
+text-align:center;
+}
+
+header{
+background:#333;
+color:white;
+padding:15px;
+display:flex;
+justify-content:space-between;
+}
+
+nav a,button{
+color:white;
+margin:10px;
+text-decoration:none;
+background:none;
+border:none;
+cursor:pointer;
+}
