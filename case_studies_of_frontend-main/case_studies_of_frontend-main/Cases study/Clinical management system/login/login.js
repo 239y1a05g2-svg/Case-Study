@@ -12,7 +12,7 @@ function login() {
     }
 
     // Demo credentials
-    if (email === "madhu123@gmail.com" && password === "1234") {
+    if (email === "vishnu123@gmail.com" && password === "1234") {
         message.style.color = "green";
         message.textContent = "Login successful!";
     } else {
@@ -20,3 +20,4 @@ function login() {
         message.textContent = "Invalid email or password.";
     }
 }
+
